@@ -8,7 +8,7 @@ defo bus = {NULL, NULL, NULL, 0};
 * main - monty code interpreter
 * @argc: number of arguments
 * @argv: monty file location
-* Return: 0 on success
+* Return: 0 if success
 */
 int main(int argc, char *argv[])
 {

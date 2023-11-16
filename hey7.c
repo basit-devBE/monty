@@ -2,7 +2,7 @@
 /**
  * queue - prints the top
  * @heat: stack heat
- * @counter: line_number
+ * @counter: the line_number
  * Return: no return
 */
 void queue(stack_t **heat, unsigned int counter)

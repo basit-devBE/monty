@@ -1,7 +1,7 @@
 #include "levels.h"
 /**
 * display - displays the opcode
-* @stack: head linked list - stack
+* @stack: the head linked list - stack
 * @counter: line_counter
 * @file: poiner to monty file
 * @line_c: line line_c

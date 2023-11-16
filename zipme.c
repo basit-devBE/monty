@@ -1,6 +1,6 @@
 #include "levels.h"
 /**
- * add_up - adds the top two elements of the stack.
+ * add_up - will add the top two elements of the stack.
  * @heat: stack heat
  * @counter: line_number
  * Return: no return
