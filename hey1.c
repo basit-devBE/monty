@@ -2,7 +2,7 @@
 /**
  * modulos - computes the rest of the division of the second
  * top element of the stack by the top element of the stack
- * @head: stack head
+ * @head: the stack head
  * @counter: line_number
  * Return: no return
 */
