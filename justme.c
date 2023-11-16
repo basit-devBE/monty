@@ -1,7 +1,7 @@
 #include "levels.h"
 /**
  * divide - divides the top two elements of the stack.
- * @head: stack head
+ * @head: the stack head
  * @counter: line_number
  * Return: no return
 */
